@@ -1,0 +1,11 @@
+{
+    "title": "Blank Game",
+    "authors": [
+        "Spacemandev"
+    ],
+    "description": "A blank game for testing purposes.",
+    "version": "0.0.1",
+    "includes": [
+        "src/index.ts"
+    ]
+}
